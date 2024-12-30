@@ -1,0 +1,42 @@
+<?php
+
+return array(
+    'Choose' => 'Choose',
+    'Enabled' => 'Enabled',
+    'edit' => 'Edit Data',
+    'Not_enabled' => 'Not_enabled',
+    'Processes' => 'Processes',
+    'Status' => 'Status',
+    'Status_change' => 'Status Change',
+    'add_doctor' => 'Add Doctor',
+    'appointments' => 'appointments',
+    'confirm_password' => 'Confirm Password',
+    'created_at' => 'created_at',
+    'delete_doctor' => 'Delete Doctor',
+    'delete_select' => 'Delete Group Doctors',
+    'doctor_photo' => 'Doctor Photo',
+    'email' => 'Email',
+    'img' => 'img',
+    'name' => 'Doctor Name',
+    'new_password' => 'New Password',
+    'password' => 'password',
+    'phone' => 'phone',
+    'price' => 'price',
+    'section' => 'Section',
+    'submit' => 'submit',
+    'close' => 'Close',
+    'patient' => 'patient',
+    'number_of_statement' => 'number of statement',
+    'update_password' => 'Update Password',
+
+    /********************* */
+    'drugs' => 'drugs',
+    'rays' => 'ٌRay images',
+    'notes' => "Notes of ray's docto",
+    'prescription' => 'prescription',
+    'invoices' => 'invoices',
+    'diagnosis' => 'diagnosis',
+    'reviewInvoices'  => 'review Invoices',
+    'completedInvoices' => 'completed Invoices',
+
+);
